@@ -1,4 +1,3 @@
 # python-webbrowser
 
-
-image downloader file is used to download a file it may be any type such as image, text file, video from browser using url and python webbrowser method.
+webbrowser is a default package in python which is used to download the files( documents, video's, audio's, images) from the browser.
